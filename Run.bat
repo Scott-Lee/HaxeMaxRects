@@ -1,4 +1,4 @@
 @echo off
 cd bin
-neko HaxeImageCut.n
+neko HaxeMaxRects.n
 pause
