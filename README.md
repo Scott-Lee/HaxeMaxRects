@@ -1,0 +1,4 @@
+HaxeMaxRects
+============
+
+Haxe of MaxRects
